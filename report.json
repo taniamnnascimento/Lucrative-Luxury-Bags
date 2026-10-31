@@ -1,0 +1,14 @@
+{
+  "pageUrl": "https://www.digitalresourcesen.online/lucrative-luxury-bags",
+  "downloadedAt": "2026-09-22T13:56:54.886Z",
+  "stats": {
+    "assetsDownloaded": 38,
+    "assetsSkipped": 26,
+    "totalBytes": 5017781,
+    "errors": [
+      "404: https://www.digitalresourcesen.online/document.referrer",
+      "404: https://www.digitalresourcesen.online/window.location.href",
+      "404: https://www.digitalresourcesen.online/a.href,%20location.href"
+    ]
+  }
+}
